@@ -1,0 +1,1 @@
+newBook|newAuthor|111|55|2019

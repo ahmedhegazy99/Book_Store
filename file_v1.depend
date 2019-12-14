@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1575737785 source:/home/ahmed/file_v1/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<string>
+	<cstdio>
+	<cstring>
+	<iomanip>
+
+1575701992 
+
+1575701992 source:e:\ahmed\developing\ahmed cod block\bookstore-master\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<string>
+	<cstdio>
+	<cstring>
+	<iomanip>
+
+1576354534 source:/media/ahmedhegazy/01D58DCB00E71780/ahmed/Developing/ahmed cod block/bookStore-master/main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<string>
+	<cstdio>
+	<cstring>
+	<iomanip>
+
